@@ -45,6 +45,34 @@ Gamitar is a passionate and youthful Edutech company that specializes in creatin
 - Profile Management
 
 
+## Credit Handling
+
+Seamlessly buy, transfer, and manage in-game credits, enabling players to enhance their gaming experience and engage in smooth transactions.
+ <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" >
+
+
+
+## Game Scheduling
+
+Efficiently plan and organize game events, ensuring players can participate in engaging activities and enjoy a well-structured gaming experience.
+
+ <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" >
+
+
+## Admin Panel
+
+Streamline game management with an intuitive admin panel, providing administrators easy access to control settings, data, and user activities for a seamless gaming environment.
+ <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" >
+
+
+## Profile Management
+
+Empower users to personalize their gaming journey by easily managing and customizing their profiles, creating a more immersive and tailored gaming experience.
+ <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" >
+
+
+
+
 ## Contact
 
 If you have any questions or feedback regarding this project, feel free to reach out to me:

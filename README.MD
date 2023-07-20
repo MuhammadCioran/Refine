@@ -13,11 +13,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Feedback](#feedback)
-- [Contributors](#contributors)
 - [Build Process](#build-process)
-- [Sponsors](#sponsors-)
-- [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
 

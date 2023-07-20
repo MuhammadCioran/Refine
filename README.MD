@@ -70,6 +70,7 @@ Streamline game management with an intuitive admin panel, providing administrato
 ## Profile Management
 
 Empower users to personalize their gaming journey by easily managing and customizing their profiles, creating a more immersive and tailored gaming experience.
+
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 

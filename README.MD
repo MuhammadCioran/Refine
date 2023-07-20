@@ -23,9 +23,13 @@
 
 
 
+
+
+
+
 ## Introduction
 
-
+This repo holds the website for thecodingtrain.com. The website is built with:
 
 [![React](https://img.shields.io/badge/React-17.x-blue)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5.3-blueviolet)](https://getbootstrap.com/)

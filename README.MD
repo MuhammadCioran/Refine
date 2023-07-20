@@ -1,11 +1,26 @@
 # Gamitar
 
-[![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey)](https://expressjs.com/)
-[![TypeORM](https://img.shields.io/badge/TypeORM-0.x-blueviolet)](https://typeorm.io/)
-[![EJS](https://img.shields.io/badge/EJS-3.x-ff69b4)](https://ejs.co/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.x-blue)](https://www.mysql.com/)
 
-Gamitar is a web application built with Express.js, TypeORM, EJS, and MySQL. It is a platform for online gaming enthusiasts to connect and share their gaming experiences.
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Feedback](#feedback)
+- [Contributors](#contributors)
+- [Build Process](#build-process)
+- [Backers](#backers-)
+- [Sponsors](#sponsors-)
+- [Acknowledgments](#acknowledgments)
+
+
+[![React](https://img.shields.io/badge/React-17.x-blue)](https://reactjs.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5.3-blueviolet)](https://getbootstrap.com/)
+[![Zustand](https://img.shields.io/badge/Zustand-3.4.2-orange)](https://zustand.surge.sh/)
+[![React Charts](https://img.shields.io/badge/React%20Charts-3.x-green)](https://reactchartjs.github.io/react-chartjs-2/)
+
+
+
+
+Gamitar is a passionate and youthful Edutech company that specializes in creating games that revolutionize the learning experience. Their game development is grounded in applied behavioral science, neuro-linguistic programming, and positive psychology, all of which empower engagement and foster meaningful player interaction.
 
 ## Features
 

@@ -18,7 +18,7 @@
 - [Build Process](#build-process)
 - [Sponsors](#sponsors-)
 - [Acknowledgments](#acknowledgments)
-- [Contact Information](#contactinformation)
+- [Contact](#contact)
 
 
 
@@ -49,7 +49,7 @@ Gamitar is a passionate and youthful Edutech company that specializes in creatin
 - Profile Management.
 
 
-## Contact Information
+## Contact
 
 If you have any questions or feedback regarding this project, feel free to reach out to me:
 

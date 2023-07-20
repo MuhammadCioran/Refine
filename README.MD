@@ -16,7 +16,6 @@
 - [Feedback](#feedback)
 - [Contributors](#contributors)
 - [Build Process](#build-process)
-- [Backers](#backers-)
 - [Sponsors](#sponsors-)
 - [Acknowledgments](#acknowledgments)
 
@@ -47,6 +46,18 @@ Gamitar is a passionate and youthful Edutech company that specializes in creatin
 - Game Scheduling
 - Admin Panel
 - Profile Management.
+
+
+## Contact Information
+
+If you have any questions or feedback regarding this project, feel free to reach out to me:
+
+- Email: [example@email.com](mailto:example@email.com)
+- Twitter: [@ExampleTwitterHandle](https://twitter.com/ExampleTwitterHandle)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/your-name/)
+
+I'd be happy to hear from you and discuss anything related to this project or any potential collaborations!
+
 
 
 

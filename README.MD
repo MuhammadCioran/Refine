@@ -42,7 +42,7 @@ Gamitar is a passionate and youthful Edutech company that specializes in creatin
 - Credit Handling
 - Game Scheduling
 - Admin Panel
-- Profile Management.
+- Profile Management
 
 
 ## Contact

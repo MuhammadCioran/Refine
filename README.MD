@@ -1,7 +1,7 @@
 <h1 align="center"> Gamitar </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="450">
+    <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" >
   </a>
 </p>
 

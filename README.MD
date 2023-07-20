@@ -48,7 +48,7 @@ Gamitar is a passionate and youthful Edutech company that specializes in creatin
 ## Credit Handling
 
 Seamlessly buy, transfer, and manage in-game credits, enabling players to enhance their gaming experience and engage in smooth transactions.
- <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" >
+ <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 
 

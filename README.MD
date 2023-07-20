@@ -1,49 +1,20 @@
 # Gamitar
 
-<div align="center" style="margin: 30px;">
-    Built With
-    ![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-    </a>
-</div>
-<br/>
+[![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey)](https://expressjs.com/)
+[![TypeORM](https://img.shields.io/badge/TypeORM-0.x-blueviolet)](https://typeorm.io/)
+[![EJS](https://img.shields.io/badge/EJS-3.x-ff69b4)](https://ejs.co/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.x-blue)](https://www.mysql.com/)
 
-This [refine](https://github.com/pankod/refine) project was generated with [superplate](https://github.com/pankod/refine).
+Gamitar is a web application built with Express.js, TypeORM, EJS, and MySQL. It is a platform for online gaming enthusiasts to connect and share their gaming experiences.
 
-## Getting Started
+## Features
 
-**refine** is a React-based framework for building data-intensive applications in no time ✨
+- User registration and authentication
+- User profile management
+- Create and join gaming groups
+- Share gaming achievements and tips
+- ...
 
-Refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability. Use-cases include, but are not limited to admin panels, B2B applications and dashboards.
+## Installation
 
-## Available Scripts
-
-### Running the development server.
-
-```bash
-    npm run dev
-```
-
-### Building for production.
-
-```bash
-    npm run build
-```
-
-### Running the production server.
-
-```bash
-    npm run start
-```
-
-## Learn More
-
-To learn more about **refine**, please check out the [Documentation](https://refine.dev/docs)
-
-- **Ant Design** [Docs](https://refine.dev/docs/ui-frameworks/antd/tutorial/)
-- **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
-- **REST Data Provider** [Docs](https://refine.dev/docs/core/providers/data-provider/#overview)
-
-
-## License
-
-MIT
+1. Clone the repository:

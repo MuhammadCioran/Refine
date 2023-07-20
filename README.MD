@@ -1,8 +1,8 @@
-# tutorial
+# Gamitar
 
 <div align="center" style="margin: 30px;">
-    <a href="https://refine.dev">
-    <img src="https://refine.ams3.cdn.digitaloceanspaces.com/refine_logo.png"  align="center" />
+    Built With
+    ![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
     </a>
 </div>
 <br/>

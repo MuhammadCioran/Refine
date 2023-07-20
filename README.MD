@@ -29,7 +29,7 @@
 
 ## Introduction
 
-This repo holds the website for thecodingtrain.com. The website is built with:
+This repo holds the website for gamitar .com. The website is built with:
 
 [![React](https://img.shields.io/badge/React-17.x-blue)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5.3-blueviolet)](https://getbootstrap.com/)
@@ -43,12 +43,10 @@ Gamitar is a passionate and youthful Edutech company that specializes in creatin
 
 ## Features
 
-- User registration and authentication
-- User profile management
-- Create and join gaming groups
-- Share gaming achievements and tips
+- Credit Handling
+- Game Scheduling
+- Admin Panel
+- Profile Management.
 - ...
 
-## Installation
 
-1. Clone the repository:
